@@ -56,7 +56,7 @@ contact:  abdannassermbarki@gmail.com
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theMastermind123&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theMastermind123&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
